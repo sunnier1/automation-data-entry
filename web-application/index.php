@@ -1,6 +1,4 @@
 <?php
-// manage web domain: https://dash.infinityfree.com/accounts/if0_41570053/databases
-//online web: https://inputlala.infinityfreeapp.com
 session_start();
 include 'config.php';
 $allowed_tables = ['pb', 'pmk', 'sbk', 'serumpun'];
