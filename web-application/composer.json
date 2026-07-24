@@ -1,0 +1,17 @@
+{
+    "name": "lilis/daftar-gas",
+    "autoload": {
+        "psr-4": {
+            "Lilis\\DaftarGas\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lilis"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^5.4",
+        "picqer/php-barcode-generator": "^3.2"
+    }
+}

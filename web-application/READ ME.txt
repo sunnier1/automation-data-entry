@@ -1,0 +1,13 @@
+---The Main Page---
+Index.php
+The page contain four kind of data, with sub-button at the top side of the table
+
+---Features---
+Copy button for keyboard function to be copied, then the rows went down with marks "Used" to avoid the duplicate use [update.php]
+
+Delete when hovering to the Number ID Column - [delete.php]
+Update the data by hovering the cursor to Number ID column - [edit.php] Password:224488 - index.php
+Shuffle Button supposed to make the order of data becoming random each time it clicked [shuffle.php]
+
+Restore function by hovering to the NIK column after the data were used. [restore.php]
+Add data [process-add.php & add-data.php] = have two method, add through files and add manually
